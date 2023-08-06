@@ -1,7 +1,7 @@
-# Kenshi
+# Hingbot
 
 ## About this Project
-Kenshi is a multipurpose chatbot made using Python3 and Flask, who can chat with you and help in performing daily tasks. It makes use of NLP and Deep-Learning to analyse the user's message, classify it into the a broader category and then reply with a suitable message or the required information.
+Hingbot is a multipurpose chatbot made using Python3 and Flask, who can chat with you and help in performing daily tasks. It makes use of NLP and Deep-Learning to analyse the user's message, classify it into the a broader category and then reply with a suitable message or the required information.
 
 ## Project UI
 
@@ -34,4 +34,4 @@ flask --app ./chatbot.py run
 
 5. Follow the URL provided in the output
 
-Kenshi is now ready to chat!
+Hingbot is now ready to chat!
